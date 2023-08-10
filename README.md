@@ -1,1 +1,2 @@
-# aa30-test
+This is a <!--!CH -->campus hybrid <!--!!END -->program.
+ 
